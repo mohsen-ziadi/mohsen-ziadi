@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohsen Ziadi</h1>
 <p align="center">
-  💻 Full-stack Developer | 🐍 Python & Django | 🌐 Node.js & Express
+  💻 BackEnd Developer | 🐍 Python & Django | 🌐 Node.js & Express
 </p>
 
 ---
